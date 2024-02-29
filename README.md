@@ -58,19 +58,19 @@ My solution to solve this problem will be the development of a data science proj
 
     **TRUE:** The values are greater than 10.000. But it's important to note that the no-fraud values is greater than 100.000 also.
 
-    ![hypothesis2](reports/figures/hypothesis2_cycle1.png)
+    ![hypothesis2](Reports/Figures/Hypothesis_2.png)
 
 * #### 60% of fraud transaction occours using cash-out-type method.
 
     **FALSE:** The fraud transaction occours in transfer and cash-out type. However they're almost the same value.
 
-    ![hypothesis3](reports/figures/hypothesis3_cycle1.png)
+    ![hypothesis3](Reports/Figures/Hypothesis_3.png)
 
 * #### Values greater than 100,000 occours using transfers-type method.
 
     **FALSE:** The majority transactions occours in trasnfer-type, however transactions greater than 100.000 occour in cash-out and cash-in too.
 
-    ![hypothesis4](reports/figures/hypothesis4_cycle1.png)
+    ![hypothesis4](Reports/Figures/Hypothesis_4.png)
 
 
 ## 5.0 Machine Learning Applied
