@@ -1,6 +1,12 @@
 # Transaction_Fraud_Detection
 Empowering Blocker Fraud Company's Brazilian expansion, this cutting-edge data science and ML initiative fortifies fraud detection in financial transactions. With precision analytics and advanced ML, it safeguards revenue streams while mitigating risks, ensuring robust growth and security in a dynamic marketplace.
 
+<div align="center">
+    <img alt="churn" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaqEta_pX_1GqEpkFMUHcL9I4yLQChuglrz-uFb8f1mY5vcsXmOrIr7l2Sj-mzgXy8yBs&usqp=CAU" width="100%" height="300">
+</div>
+
+<br>
+
 
 ## 1.0 Business Problem
 The Blocker Fraud Company is a company specialized in detecting fraud in financial transactions made through mobile devices. The company has a service called "Blocker Fraud" which guarantees the blocking of fraudulent transactions.
@@ -27,7 +33,7 @@ Fraud prevention is the implementation of a strategy to detect fraudulent transa
 
 There are always financial frauds and They can happen through virtual and physical ways. So the investment in security has been increasing.
 
-The losses caused by fraud can reach R$ 1 billion - which corresponds to half the amount that institutions invest in technology systems aimed at information security every year, according to Febraban's 2020 Banking Technology Survey.
+The losses caused by fraud can reach R\$ 1 billion - which corresponds to half the amount that institutions invest in technology systems aimed at information security every year, according to [Febraban's 2020 Banking Technology Survey](https://blog.simply.com.br/tecnologia-bancaria-2020/).
 
 
 ## 3.0 Solution Strategy
